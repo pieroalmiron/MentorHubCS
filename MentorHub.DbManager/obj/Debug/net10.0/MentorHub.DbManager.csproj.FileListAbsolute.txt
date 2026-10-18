@@ -1,0 +1,13 @@
+C:\Users\pcwin\Documents\programacion3\MentorHub\MentorHub.DbManager\bin\Debug\net10.0\MentorHub.DbManager.deps.json
+C:\Users\pcwin\Documents\programacion3\MentorHub\MentorHub.DbManager\bin\Debug\net10.0\MentorHub.DbManager.dll
+C:\Users\pcwin\Documents\programacion3\MentorHub\MentorHub.DbManager\bin\Debug\net10.0\MentorHub.DbManager.pdb
+C:\Users\pcwin\Documents\programacion3\MentorHub\MentorHub.DbManager\obj\Debug\net10.0\MentorHub.DbManager.csproj.AssemblyReference.cache
+C:\Users\pcwin\Documents\programacion3\MentorHub\MentorHub.DbManager\obj\Debug\net10.0\MentorHub.DbManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcwin\Documents\programacion3\MentorHub\MentorHub.DbManager\obj\Debug\net10.0\MentorHub.DbManager.AssemblyInfoInputs.cache
+C:\Users\pcwin\Documents\programacion3\MentorHub\MentorHub.DbManager\obj\Debug\net10.0\MentorHub.DbManager.AssemblyInfo.cs
+C:\Users\pcwin\Documents\programacion3\MentorHub\MentorHub.DbManager\obj\Debug\net10.0\MentorHub.DbManager.csproj.CoreCompileInputs.cache
+C:\Users\pcwin\Documents\programacion3\MentorHub\MentorHub.DbManager\obj\Debug\net10.0\MentorHub.DbManager.dll
+C:\Users\pcwin\Documents\programacion3\MentorHub\MentorHub.DbManager\obj\Debug\net10.0\refint\MentorHub.DbManager.dll
+C:\Users\pcwin\Documents\programacion3\MentorHub\MentorHub.DbManager\obj\Debug\net10.0\MentorHub.DbManager.pdb
+C:\Users\pcwin\Documents\programacion3\MentorHub\MentorHub.DbManager\obj\Debug\net10.0\ref\MentorHub.DbManager.dll
+C:\Users\pcwin\Documents\programacion3\MentorHub\MentorHub.DbManager\obj\Debug\net10.0\MentorHu.DC53919B.Up2Date
