@@ -4,7 +4,16 @@ using System.Text;
 
 namespace MentorHub.Modelo.Academico
 {
-    internal class Tutor
+    public class Tutor
     {
+        public Tutor()
+        {
+
+        }
+
+        public Tutor(Tutor Tutor)
+        {
+
+        }
     }
 }

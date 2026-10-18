@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MentorHub.Modelo.Academico
 {
-    internal class EstadoDictadoCurso
+    public enum EstadoDictadoCurso
     {
     }
 }
