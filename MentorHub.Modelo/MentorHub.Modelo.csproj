@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Comunicaciones\" />
+    <Folder Include="Identidad\" />
+    <Folder Include="Tutoria\" />
+  </ItemGroup>
+
 </Project>

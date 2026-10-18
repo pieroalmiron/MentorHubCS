@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MentorHub.Modelo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18a309edbf83f85feb9f3cbd9b8a69871a1bff69")]
 [assembly: System.Reflection.AssemblyProductAttribute("MentorHub.Modelo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MentorHub.Modelo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
